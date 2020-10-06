@@ -1,5 +1,5 @@
 # Parkinsons-disease-detector
-- In this project the problem statemen was to build a Machine Learning model which could accurately detect the Parkinson's disease in patients.
+- In this project the problem was to build a Machine Learning model which could accurately detect the Parkinson's disease in patients.
 - I have used the Prakinson's data set by University of California Irvine
 
 ![](Images/park2.png)  
