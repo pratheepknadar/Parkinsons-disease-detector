@@ -21,7 +21,7 @@
 
 
 ## Approach:
-- Cleaned the data had to normalize the dataset because the scales were different for attributes.
+- Cleaned the data, had to normalize the dataset using standardScaler() because the scales were different for each attributes.
 - did the preprocessing step using pipline with feature- engine library
 - I was able to accurately detect Parkinson's disease 94.08 % of the times using the XGBoost model.
 
