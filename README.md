@@ -25,6 +25,7 @@
 - did the preprocessing step using pipline with feature- engine library
 - I was able to accurately detect Parkinson's disease 94.08 % of the times using the XGBoost model.
 
+## Result:
 ![](Images/park1.png)  
 
 ### Technologies Used:
