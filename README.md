@@ -1,4 +1,4 @@
-# Parkinsons-disease-detector ![GitHub followers](https://img.shields.io/github/followers/pratheepknadar?style=social)
+# Parkinsons-disease-detector ![GitHub followers](https://img.shields.io/github/followers/pratheepknadar?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/pratheepknadar/Parkinsons-disease-detector?style=social)
 - In this project the problem was to build a Machine Learning model which could accurately detect the Parkinson's disease in patients.
 - I have used the Prakinson's data set by University of Oxford
 
