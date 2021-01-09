@@ -4,7 +4,7 @@
 
 ![](Images/park2.png)  
 
-## Motivation 
+## Motivation. 
 - I wanted to improve my classification skills and wanted to learn XGBoost ( which is a very fast and simple model )
 
 ## Attributes
